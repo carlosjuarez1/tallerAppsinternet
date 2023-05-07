@@ -1,5 +1,11 @@
-Metodologias tradicionales
+Metodologias Tradicionales
 -Esoiral
 -Cascada
 -Prototipo
 -Incremental
+Metodologias Agiles
+-Programacion extrema (XP)
+-Kanban
+-Scrum
+-Lean
+-Desarrollo basado en Caracteristicas (FDD)
