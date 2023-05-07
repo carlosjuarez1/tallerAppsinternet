@@ -1,0 +1,5 @@
+Metodologias tradicionales
+-Esoiral
+-Cascada
+-Prototipo
+-Incremental
